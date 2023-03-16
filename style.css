@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    box-sizing: none;
+    background-color: rgb(245, 177, 17);
+    text-align: center;
+}
+
+h1 {
+    font-family: 'lato';
+    font-weight: 300;
+    color: white;
+    font-size: 38px;
+}
+
+h2 {
+    font-family: 'lato';
+    font-weight: 300;
+    color: white;
+    font-size: 38px;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    margin: 10px 20px;
+    background: none;
+    color: white;
+    font-family: 'lato';
+    border: white 1px solid;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    border: 2px solid white;
+    font-size: 20px;
+}
